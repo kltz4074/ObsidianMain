@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ebeefad69a7cf04d",
+    "type": "split",
+    "children": [
+      {
+        "id": "46396e2b31742066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f6a91a76e3e3030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hebrew words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hebrew words"
+            }
+          },
+          {
+            "id": "8c99e7ed8492bbf0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b89285beaa456de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba0347a682cdb9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42fc570383a63c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "8be4f43b6c0cbbaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "668aa426cf335ae7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ed76084cbe127d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b1b53f108c337e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c19f5a77436ebe89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hebrew words.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для hebrew words"
+            }
+          },
+          {
+            "id": "e7663eb51b78484d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hebrew words.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из hebrew words"
+            }
+          },
+          {
+            "id": "40f0c1106062377f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "18e07f18e1ed9944",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hebrew words.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура hebrew words"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "8be4f43b6c0cbbaf",
+  "lastOpenFiles": [
+    "html.md",
+    "תרגיל.md",
+    "hebrew words.md",
+    "english words.md",
+    "הִרבָּה 1.md",
+    "הכבוד.md",
+    "myOsidianStorageKLTZQU/englishWords/school.md",
+    "hebrew.md",
+    "still.md",
+    "חי.md",
+    "hebrew questions.md",
+    "Pasted image 20250121163258.png",
+    "english.md",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "instead.md",
+    "assigned.md",
+    "מחברת.md",
+    "הבאים.md",
+    "סֵפֶר.md",
+    "סִידוּרִים.md",
+    "הִרבָּה.md",
+    "פָּחוֹת 2.md",
+    "פּלוּס.md",
+    "פָּחוֹת 1.md",
+    "contains.md",
+    "פָּחוֹת.md",
+    "referred.md",
+    "fight.md",
+    "Pasted image 20250109164406.png",
+    "Без названия.canvas",
+    "Pasted image 20250108175428.png",
+    "Pasted image 20250103162545.png"
+  ]
+}
