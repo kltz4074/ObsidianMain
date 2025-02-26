@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hebrew words.md",
+                "file": "hebrew questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hebrew words"
+              "title": "hebrew questions"
             }
           },
           {
@@ -32,8 +32,63 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.4"
             }
+          },
+          {
+            "id": "60c4cb1ac63ef13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hebrew questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hebrew questions"
+            }
+          },
+          {
+            "id": "ef3d7e4bc20936ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "bf2fd987d4600480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "english"
+            }
+          },
+          {
+            "id": "31d24e06f94dc7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "english words"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -64,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "омэд",
+                "query": "kind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hebrew words.md",
+                "file": "english words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для hebrew words"
+              "title": "Обратные ссылки для english words"
             }
           },
           {
@@ -152,7 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hebrew words.md"
+                "file": "hebrew words.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Структура hebrew words"
@@ -176,12 +234,13 @@
   },
   "active": "8be4f43b6c0cbbaf",
   "lastOpenFiles": [
+    "english.md",
+    "hebrew words.md",
+    "hebrew.md",
+    "hebrew questions.md",
     "hebrew lastTime.md",
     "Pasted image 20250213165451.png",
     "Pasted image 20250213165439.png",
-    "hebrew.md",
-    "hebrew questions.md",
-    "hebrew words.md",
     "html.md",
     "תרגיל.md",
     "english words.md",
@@ -191,7 +250,6 @@
     "still.md",
     "חי.md",
     "Pasted image 20250121163258.png",
-    "english.md",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "instead.md",
